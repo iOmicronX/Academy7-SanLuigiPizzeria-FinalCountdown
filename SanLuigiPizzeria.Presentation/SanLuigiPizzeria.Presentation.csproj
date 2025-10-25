@@ -6,4 +6,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Spectre.Console" Version="0.52.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SanLuigiPizzeria.Business\SanLuigiPizzeria.Business.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -1,0 +1,37 @@
+[
+  {
+    "Id": 0,
+    "Nome": "Margherita",
+    "Prezzo": 6.50
+  },
+  {
+    "Id": 1,
+    "Nome": "Diavola",
+    "Prezzo": 7.50
+  },
+  {
+    "Id": 2,
+    "Nome": "Capricciosa",
+    "Prezzo": 9.00
+  },
+  {
+    "Id": 3,
+    "Nome": "Quattro Formaggi",
+    "Prezzo": 8.50
+  },
+  {
+    "Id": 4,
+    "Nome": "Prosciutto e Funghi",
+    "Prezzo": 7.80
+  },
+  {
+    "Id": 5,
+    "Nome": "Bufalina",
+    "Prezzo": 9.50
+  },
+  {
+    "Id": 9,
+    "Nome": "Parma",
+    "Prezzo": 10.00
+  }
+]
